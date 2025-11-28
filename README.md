@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I’m Snehal Pawar 👋
 
-<!--
-**SnehalPawar04/SnehalPawar04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Final year B.E. (CSE – Data Science) Honours in Artificial Intelligence & Machine Learning.**| Passionate about ML, Cloud & Data Engineering  
+Mail: snehalpawar.0404@gmail.com | LinkedIn: https://www.linkedin.com/in/snehalpawar04/  
+GitHub: https://github.com/SnehalPawar04
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Current
+- Student at A.P. Shah Institute of Technology.
+- Completed virtual internships in **Google Cloud (Generative AI)**, **Zscaler (Zero Trust)**, and **AWS Data Engineering**.
+
+---
+
+## 🛠️ Skills & Tech
+**Languages:** Python, Java, C, C++, JavaScript, HTML, CSS, React.  
+**Frameworks / Tools:** Flask, MySQL, MongoDB, Git, Power BI.  
+**Domains:** Machine Learning, Data Analytics, Web Scraping, Backend Development.
+
+---
+
+## 📫 Contact
+- Email: snehalpawar.0404@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/snehalpawar04/  
+
+---
+
+## 🚀 Want to collaborate?
+I’m open to internships and projects in ML/Data Engineering & Cloud. Feel free to reach out!
